@@ -1,0 +1,10 @@
+Zone Track
+    Rotary|A        TrackPan
+    Rotary|B        TrackPanWidth
+    Fader|          TrackVolume
+
+    Mute|           TrackMute
+    Solo|           TrackSolo
+    Rec|            TrackRecordArm
+    Shift+Rec|      CycleTrackInputMonitor
+ZoneEnd

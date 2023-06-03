@@ -1,0 +1,16 @@
+Zone Buttons
+    Solo            Shift
+    / SendAll       NoAction  / SendAll probably cannot be used.
+
+    BankLeft        Bank Track -8
+    BankLeft        Bank TrackSend -8
+    
+    BankRight       Bank Track 8
+    BankRight       Bank TrackSend 8
+
+    Shift+BankLeft  Bank Track -1024
+    Shift+BankLeft  Bank TrackSend -1024
+
+    Shift+BankRight Bank Track 1024
+    Shift+BankRight Bank TrackSend 1024
+ZoneEnd
