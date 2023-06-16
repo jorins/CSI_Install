@@ -8,9 +8,15 @@ Zone Buttons
     BankRight       Bank Track 8
     BankRight       Bank TrackSend 8
 
-    Shift+BankLeft  Bank Track -1024
-    Shift+BankLeft  Bank TrackSend -1024
+    Shift+BankLeft  Bank Track -1
+    Shift+BankLeft  Bank TrackSend -1
 
-    Shift+BankRight Bank Track 1024
-    Shift+BankRight Bank TrackSend 1024
+    Shift+BankRight Bank Track 1
+    Shift+BankRight Bank TrackSend 1
+
+    Hold+BankLeft  Bank Track -1024
+    Hold+BankLeft  Bank TrackSend -1024
+
+    Hold+BankRight Bank Track 1024
+    Hold+BankRight Bank TrackSend 1024
 ZoneEnd
